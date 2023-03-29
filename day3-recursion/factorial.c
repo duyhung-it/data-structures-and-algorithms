@@ -8,6 +8,8 @@ int factorial(int n){
 }
 
 int main(){
-    printf("%d\n",factorial(5));
+    int arr[]= {1,2,3,4,5};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    printf("%d",n);
     return 0;
 }
