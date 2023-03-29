@@ -1,6 +1,6 @@
 # Welcome to DataStructures And Algorithms
 
-### Mục tiêu của project
+### Mục tiêu
 
 - Phục vụ học tập cấu trúc dữ liệu và giải thuật
 - Rèn luyện tư duy code và tư duy giải thuật
