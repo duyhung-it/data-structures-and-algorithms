@@ -21,4 +21,5 @@ int main(){
     }else{
         printf("x found at index %d\n",result);
     }
+    return 0;
 }
